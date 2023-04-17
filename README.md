@@ -7,3 +7,5 @@ L'approche de rédcution de dimensionnalité des modèles transformers a été t
 - les Auto encodeurs
 - les VAE
 - Méthode de réduction de dimension proposée dans le papier:"Whitening Sentence Representations for Better Semantics and Faster Retrieval"
+
+Les données pour reproduire les codes sont également disponibles
